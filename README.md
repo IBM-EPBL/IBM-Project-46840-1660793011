@@ -10,7 +10,7 @@ TEAM ID : PNT2022TMID31636
 ## 👨‍👩‍👦TEAM MEMBERS
 ```text
  - Sasi Kumar P 
- - Niranjan B
+ - Niranjan E
  - Sasi Keerthana R  
  - Tharini M 
 ```
